@@ -3,3 +3,5 @@ dependencies:
     paths: ['gunicorn/**']
   celery:
     paths: ['celery/**']
+  next:
+    paths: ['packages/next/src/server/config-shared.ts', 'packages/next/src/shared/lib/image-config.ts']
