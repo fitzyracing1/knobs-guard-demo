@@ -1,0 +1,5 @@
+dependencies:
+  gunicorn:
+    paths: ['gunicorn/**']
+  celery:
+    paths: ['celery/**']
